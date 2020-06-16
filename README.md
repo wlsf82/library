@@ -1,4 +1,7 @@
 # library
+
+[![Build Status](https://semaphoreci.com/api/v1/wlsf82/library/branches/master/badge.svg)](https://semaphoreci.com/wlsf82/library)
+
 Library project based on the introduction to JavaScript course from codecademy.
 
 ## Dev dependencies installation
